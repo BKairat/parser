@@ -1,0 +1,109 @@
+  BEST EXCHANGE RATES IN CZ
+    USD: 
+sell in Česká spořitelna 23.827
+buy in Air bank 24.855
+    AUD: 
+sell in Česká spořitelna 16.307
+buy in ČSOB 17.08
+    GBP: 
+sell in Česká spořitelna 27.596
+buy in Oberbank AG 28.973
+    BGN: 
+sell in Česká spořitelna 12.243
+buy in Česká spořitelna 12.871
+    DKK: 
+sell in Česká spořitelna 3.22
+buy in Česká spořitelna 3.385
+    EUR: 
+sell in Česká spořitelna 23.946
+buy in Oberbank AG 25.148
+    HKD: 
+sell in Česká spořitelna 3.036
+buy in UniCredit Bank 3.187
+    HRK: 
+sell in Česká spořitelna 3.182
+buy in Česká spořitelna 3.346
+    JPY: 
+sell in Česká spořitelna 16.727
+buy in Fio banka 17.443
+    ZAR: 
+sell in Raiffeisenbank 1.389
+buy in Česká spořitelna 1.45
+    CAD: 
+sell in Česká spořitelna 18.274
+buy in Air bank 19.135
+    HUF: 
+sell in Air bank 6.036
+buy in Česká spořitelna 6.335
+    NOK: 
+sell in Česká spořitelna 2.403
+buy in Česká spořitelna 2.526
+    NZD: 
+sell in Česká spořitelna 14.561
+buy in Air bank 15.279
+    PLN: 
+sell in ČSOB 5.091
+buy in Česká spořitelna 5.339
+    RON: 
+sell in Česká spořitelna 4.888
+buy in Fio banka 5.127
+    SEK: 
+sell in Fio banka 2.249
+buy in Česká spořitelna 2.361
+    CHF: 
+sell in Česká spořitelna 24.817
+buy in ČSOB 26.037
+    TND: 
+sell in Česká spořitelna 7.436
+buy in Česká spořitelna 7.818
+    TRY: 
+sell in Česká spořitelna 1.306
+buy in Air bank 1.364
+    CNY: 
+sell in Air bank 3.4
+buy in Air bank 3.588
+    RUB: 
+sell in Air bank 39.186
+buy in Air bank 41.36
+    IDR: 
+sell in Air bank 1.587
+buy in Air bank 1.675
+    ISK: 
+sell in Air bank 16.958
+buy in Air bank 17.9
+    AED: 
+sell in Raiffeisenbank 6.462
+buy in Raiffeisenbank 6.752
+    THB: 
+sell in Air bank 64.754
+buy in Air bank 68.348
+    UAH: 
+sell in Air bank 0.637
+buy in Air bank 0.673
+    VND: 
+sell in Air bank 1.001
+buy in Air bank 1.057
+    SGD: 
+sell in Oberbank AG 16.865
+buy in Oberbank AG 17.999
+    INR: 
+sell in Raiffeisenbank 29.794
+buy in Raiffeisenbank 31.134
+    KRW: 
+sell in Raiffeisenbank 1.719
+buy in Raiffeisenbank 1.797
+    QAR: 
+sell in Raiffeisenbank 6.446
+buy in Raiffeisenbank 6.736
+    KZT: 
+sell in Raiffeisenbank 5.015
+buy in Raiffeisenbank 5.24
+    MAD: 
+sell in Raiffeisenbank 2.217
+buy in Raiffeisenbank 2.317
+    SAR: 
+sell in Raiffeisenbank 6.316
+buy in Raiffeisenbank 6.6
+    BAM: 
+sell in UniCredit Bank 12.115
+buy in UniCredit Bank 12.994

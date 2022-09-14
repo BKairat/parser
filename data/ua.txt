@@ -1,0 +1,37 @@
+  BEST EXCHANGE RATES IN UA
+    USD: 
+sell in ПУМ 41.0
+buy in ОТП Банк 39.6
+    EUR: 
+sell in ПУМ 41.0
+buy in ОТП Банк 39.95
+    RUB: 
+sell in ПУМ 0.35
+buy in Аккордбанк 0.362
+    CZK: 
+sell in Укргазбанк 1.6
+buy in Приватбанк 1.63
+    GBP: 
+sell in ПУМ 46.7
+buy in Приватбанк 46.2
+    PLN: 
+sell in Ощадбанк 8.1
+buy in Приватбанк 8.5
+    USD_CARD: 
+sell in Форвард Банк 41.0
+buy in Укргазбанк 37.0
+    EUR_CARD: 
+sell in Форвард Банк 40.8
+buy in ПУМ 30.65
+    RUB_CARD: 
+sell in Приватбанк 0.32
+buy in Приватбанк 0.35
+    CAD: 
+sell in Ощадбанк 28.1
+buy in Ощадбанк 31.0
+    CHF: 
+sell in Укргазбанк 39.0
+buy in ОТП Банк 41.25
+    HUF: 
+sell in Ощадбанк 0.098
+buy in Ощадбанк 0.104
